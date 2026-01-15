@@ -522,7 +522,8 @@ header {
     position: relative;
     width: 380px;
     height: 380px;
-    margin: 0 auto;
+    padding: 10px;
+    margin: 40px 20px;
 }
 
 .profile-wrapper {
