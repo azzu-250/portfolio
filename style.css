@@ -654,11 +654,6 @@ header {
     }
 }
 
-/* ============================================
-           END OF PROFILE PICTURE REDESIGN
-           ============================================ */
-
-/* Hero Section */
 .hero {
     background: var(--primary-color);
     color: var(--light-text);
@@ -733,7 +728,7 @@ header {
 
 .skills-list {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
     margin-top: 2rem;
 }
